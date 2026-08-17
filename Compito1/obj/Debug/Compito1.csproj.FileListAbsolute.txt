@@ -1,0 +1,4 @@
+C:\Users\Luca\source\repos\Compito1\Compito1\obj\Debug\Compito1.csproj.AssemblyReference.cache
+C:\Users\Luca\source\repos\Compito1\Compito1\obj\Debug\Compito1.Properties.Resources.resources
+C:\Users\Luca\source\repos\Compito1\Compito1\obj\Debug\Compito1.csproj.GenerateResource.cache
+C:\Users\Luca\source\repos\Compito1\Compito1\obj\Debug\Compito1.csproj.CoreCompileInputs.cache
